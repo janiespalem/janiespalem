@@ -1,15 +1,8 @@
 # hey, i'm Fiodar
 
-building stuff that saves people from Excel and paper
+most of my work starts with "we do this in Excel"
+and ends with a system people actually use.
 
-mostly for companies around me that need it
+`python` · `fastapi` · `postgresql` · `vue` · `docker` · `linux`
 
----
-
-**right now:** internal ERP for a metal shop in Gołdap · rental system for construction equipment · [3D block calculator](https://betongoldap.pl/kalkulator) that's actually live
-
-**usual tools:** Python, FastAPI, Vue 3, whatever the job needs
-
----
-
-RCM Sp. z o.o. · Gołdap, PL
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fearlesstilted&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent)
